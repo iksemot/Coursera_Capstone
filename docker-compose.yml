@@ -1,0 +1,10 @@
+version: '3'
+services:
+  jupyterlab:
+    build: .
+    ports:
+    - 8888:8888
+    volumes:
+    - ./README.md:/root/capstone-project/README.md
+    - ./project:/root/capstone-project/project
+    container_name: ibmdscapstone
