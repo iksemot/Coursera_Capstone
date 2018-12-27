@@ -7,3 +7,6 @@ matplotlib
 seaborn
 scikit-optimize
 xgboost
+beautifulsoup4
+requests
+folium
