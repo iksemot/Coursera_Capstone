@@ -7,4 +7,6 @@ services:
     volumes:
     - ./README.md:/root/capstone-project/README.md
     - ./project:/root/capstone-project/project
+    env_file:
+    - jupyterlab.env
     container_name: ibmdscapstone
