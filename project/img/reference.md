@@ -1,0 +1,6 @@
+![Map of top attractions](2019-01-07-23-09-36.png)
+![Map of top hotels](2019-01-07-23-40-52.png)
+![Map of attractions around top hotels](2019-01-08-00-04-29.png)
+![Map of top attractions around top hotels](2019-01-08-00-09-56.png)
+![Map of top attractions around top X hotels](2019-01-08-21-21-40.png)
+![Clustered top attractions](2019-01-08-22-43-35.png)
